@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/brand/binkru-logo.svg" alt="binkru logo" width="160">
+</p>
+
 # binkru
 
 **An Engineering Operating Model for governed human, AI and automation
