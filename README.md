@@ -176,6 +176,10 @@ The architectural entry point is:
 
 ## Where to start
 
+If you are new to binkru, begin with the five-minute orientation:
+
+[`ORIENTATION.md`](ORIENTATION.md)
+
 For an architectural overview, begin with:
 
 [`engineering_platform/README.md`](engineering_platform/README.md)
@@ -209,6 +213,10 @@ The current repository provides the canonical Engineering Platform
 architecture and specifications. Additional adoption guidance, examples,
 implementation support, and tooling may evolve independently of the
 canonical architectural model.
+
+## About the name
+
+**binkru** is named after Binkie, a British Shorthair cat affectionately known as "Binkru." Binkie has a sister, Eevee. Both have been known to provide occasional supervision of Engineering activities.
 
 ## Contributing
 
