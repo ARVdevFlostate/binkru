@@ -173,7 +173,9 @@ You do not need to read the repository in a fixed order. Choose the path that ma
 | Understand the Engineering Capability Model | [`engineering_platform/specifications/capability_model_specification.md`](engineering_platform/specifications/capability_model_specification.md) |
 | See the model operating in concrete organizational contexts | [`examples/contextual/`](examples/contextual/) |
 | Explore the worked-example collection | [`examples/`](examples/) |
+| Begin applying binkru to an existing Engineering environment | [`guides/getting_started.md`](guides/getting_started.md) |
 | Understand failure, conflict and uncertainty | [`guides/failure_and_uncertainty.md`](guides/failure_and_uncertainty.md) |
+| Evaluate implementation conformance | [`guides/conformance.md`](guides/conformance.md) |
 | Understand the realization model | [`engineering_platform/specifications/realization_model_specification.md`](engineering_platform/specifications/realization_model_specification.md) |
 | Understand the implementation architecture | [`engineering_platform/specifications/implementation_architecture_specification.md`](engineering_platform/specifications/implementation_architecture_specification.md) |
 | Explore Engineering Automation | [`engineering_platform/engineering_automation/`](engineering_platform/engineering_automation/) |

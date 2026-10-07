@@ -6,6 +6,8 @@
 >
 > This example illustrates one possible realization of the Engineering Operating Model in a startup-team context. It does not establish Engineering semantics or prescribe a required implementation, organizational structure, or division of responsibility. Where this example differs from the canonical Engineering Operating Model, the canonical model governs.
 
+[Explore all Contextual Examples](./README.md)
+
 ## About this example
 
 This example follows a customer account-deletion capability from Product intent through Engineering and Release in a small-to-medium startup team where Product and Engineering responsibilities are distributed across multiple human participants and AI and automation also participate in Engineering activity.

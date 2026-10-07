@@ -184,39 +184,23 @@ If you are new to binkru, begin with the five-minute orientation:
 
 [`ORIENTATION.md`](ORIENTATION.md)
 
-For an architectural overview, begin with:
+If you want to go directly to the canonical Engineering Operating Model, begin with:
 
 [`engineering_platform/README.md`](engineering_platform/README.md)
 
-For the foundational principles:
-
-[`engineering_platform/principles/engineering_platform_principles.md`](engineering_platform/principles/engineering_platform_principles.md)
-
-For canonical terminology:
+For canonical terminology, see:
 
 [`engineering_platform/glossary/engineering_platform_glossary.md`](engineering_platform/glossary/engineering_platform_glossary.md)
-
-For the Engineering Capability Model:
-
-[`engineering_platform/specifications/capability_model_specification.md`](engineering_platform/specifications/capability_model_specification.md)
-
-For architecture realization and implementation boundaries:
-
--   [`engineering_platform/specifications/realization_model_specification.md`](engineering_platform/specifications/realization_model_specification.md)
--   [`engineering_platform/specifications/implementation_architecture_specification.md`](engineering_platform/specifications/implementation_architecture_specification.md)
-
-The Product, Collaboration, Engineering, Release, and Engineering
-Automation areas provide their respective detailed specifications and
-governed artifacts.
 
 ## Status
 
 binkru is being established as an open Engineering Operating Model.
 
 The current repository provides the canonical Engineering Platform
-architecture and specifications. Additional adoption guidance, examples,
-implementation support, and tooling may evolve independently of the
-canonical architectural model.
+architecture and specifications together with non-normative orientation,
+adoption guidance, and worked examples. Further guidance, implementation
+support, and tooling may evolve independently of the canonical
+architectural model.
 
 ## About the name
 

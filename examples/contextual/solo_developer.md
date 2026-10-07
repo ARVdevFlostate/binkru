@@ -6,6 +6,8 @@
 >
 > This example illustrates one possible realization of the Engineering Operating Model in a solo-developer context. It does not establish Engineering semantics or prescribe a required implementation. Where this example differs from the canonical Engineering Operating Model, the canonical model governs.
 
+[Explore all Contextual Examples](./README.md)
+
 ## About this example
 
 This example follows a customer account-deletion capability from Product intent through Engineering and Release in a solo-developer context with AI and automation participation.

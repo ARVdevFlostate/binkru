@@ -302,7 +302,9 @@ The rule is not that earlier outcomes can never change.
 
 The rule is that a later condition does not silently rewrite what was legitimately known or established earlier. Its effect on previous outcomes remains governed by the applicable Engineering semantics.
 
-## Related examples
+## Related guidance and examples
+
+For a short introduction to the Engineering Operating Model, see [`ORIENTATION.md`](../ORIENTATION.md).
 
 The contextual examples show these distinctions inside complete Engineering narratives.
 

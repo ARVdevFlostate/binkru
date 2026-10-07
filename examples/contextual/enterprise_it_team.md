@@ -6,6 +6,8 @@
 >
 > This example illustrates one possible realization of the Engineering Operating Model in an enterprise IT context. It does not establish Engineering semantics or prescribe a required implementation, organizational structure, department model, division of responsibility, or governance process. Where this example differs from the canonical Engineering Operating Model, the canonical model governs.
 
+[Explore all Contextual Examples](./README.md)
+
 ## About this example
 
 This example follows a customer account-deletion capability from Product intent through Engineering and Release in an enterprise IT environment where relevant responsibilities, authority, Engineering activity, specialist knowledge, and Release activity are distributed across organizational boundaries.
