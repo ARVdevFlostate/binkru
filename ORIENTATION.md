@@ -106,7 +106,7 @@ Their ability to perform an activity does not by itself determine the authority 
 In particular:
 
 ```text
-technical capability  ≠  authority
+technical capability   ≠  authority
 responsibility         ≠  authority
 access                 ≠  authority
 ```
@@ -117,7 +117,15 @@ An AI participant may therefore analyze context, propose an approach, generate o
 
 The same principle applies to humans and automation: participant type does not manufacture authority.
 
-## 5. Context changes realization, not the model
+## 5. Engineering does not always resolve cleanly
+
+Engineering conditions do not always produce an immediate positive or negative outcome. Relevant information may remain unresolved, conflicting, partial, stale, unavailable, or uncertain.
+
+These conditions should remain distinguishable rather than being silently converted into stronger or unrelated Engineering outcomes.
+
+For a focused explanation, see [When Engineering Does Not Resolve Cleanly](guides/failure_and_uncertainty.md).
+
+## 6. Context changes realization, not the model
 
 The Engineering Operating Model does not require every Engineering environment to look alike.
 
@@ -165,6 +173,7 @@ You do not need to read the repository in a fixed order. Choose the path that ma
 | Understand the Engineering Capability Model | [`engineering_platform/specifications/capability_model_specification.md`](engineering_platform/specifications/capability_model_specification.md) |
 | See the model operating in concrete organizational contexts | [`examples/contextual/`](examples/contextual/) |
 | Explore the worked-example collection | [`examples/`](examples/) |
+| Understand failure, conflict and uncertainty | [`guides/failure_and_uncertainty.md`](guides/failure_and_uncertainty.md) |
 | Understand the realization model | [`engineering_platform/specifications/realization_model_specification.md`](engineering_platform/specifications/realization_model_specification.md) |
 | Understand the implementation architecture | [`engineering_platform/specifications/implementation_architecture_specification.md`](engineering_platform/specifications/implementation_architecture_specification.md) |
 | Explore Engineering Automation | [`engineering_platform/engineering_automation/`](engineering_platform/engineering_automation/) |
