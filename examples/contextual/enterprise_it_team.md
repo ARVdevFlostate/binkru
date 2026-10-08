@@ -208,9 +208,7 @@ Likewise, technical ability to deploy, promote, roll back, bypass, or otherwise 
 
 ### Claude and Claude Code
 
-Claude and Claude Code participate as illustrative AI-assisted Engineering tooling.
-
-A paid Claude subscription providing Claude Code access is therefore required to reproduce the example as written. Claude is an illustrative implementation choice, not a requirement of the Engineering Operating Model.
+Claude and Claude Code participate as illustrative AI-assisted Engineering tooling. Claude Code is not required by the Engineering Operating Model; other AI-assisted Engineering tools may participate under the same applicable Engineering semantics, authority, context, governance, and provenance requirements.
 
 Within applicable Engineering scope and available context, Claude and Claude Code may assist participants by:
 

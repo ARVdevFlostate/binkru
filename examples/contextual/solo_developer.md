@@ -77,9 +77,7 @@ Likewise, technical ability does not determine authority. The solo developer's a
 
 ### AI-assisted Engineering
 
-This example uses **Claude and Claude Code** as illustrative AI-assisted Engineering tooling.
-
-A paid Claude subscription providing Claude Code access is required to reproduce the example as written. Claude is an implementation choice for this example, not a requirement of the Engineering Operating Model.
+This example uses **Claude and Claude Code** as illustrative AI-assisted Engineering tooling. Claude Code is not required by the Engineering Operating Model; other AI-assisted Engineering tools may participate under the same applicable Engineering semantics, authority, context, governance, and provenance requirements.
 
 Claude may participate substantially in the Engineering work. For example, it may inspect the codebase, identify affected areas, propose an Engineering approach, modify code, create or modify tests, execute available tooling, analyze failures, and help assemble relevant evidence.
 
