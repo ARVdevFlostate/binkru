@@ -206,6 +206,16 @@ architectural model.
 
 **binkru** is named after Binkie, a British Shorthair cat affectionately known as "Binkru." Binkie has a sister, Eevee. Both have been known to provide occasional supervision of Engineering activities.
 
+## Development transparency
+
+**binkru** was developed by Amit Vidyasagar with substantial assistance from ChatGPT, an AI system developed by OpenAI.
+
+ChatGPT participated throughout the development of binkru in architectural reasoning, critical review, specification and documentation drafting, semantic consistency analysis, and iterative refinement. Its participation materially contributed to the development of the Engineering Operating Model.
+
+Design decisions, acceptance of changes, and responsibility for the resulting published work remained with Amit Vidyasagar.
+
+This disclosure is provided for transparency about the development of binkru. AI participation does not alter the ownership, licensing, authority, or governance of the project.
+
 ## Contributing
 
 Contribution guidance is provided in
